@@ -75,6 +75,7 @@ export const RoomShow = props => {
           <TextField source="name" />
           <TextField source="canonical_alias" />
           <TextField source="creator" />
+          <TextField source="name" />
         </Tab>
 
         <Tab
